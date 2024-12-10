@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: "mongodb+srv://surajpattade:rqJQAuTcV9mFLsjf@cluster0.ncq8b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+      database: mydb
+
